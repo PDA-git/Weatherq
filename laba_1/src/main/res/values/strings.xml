@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidApplication</string>
+    <string name="minsk">Минск</string>
+    <string name="_20_c">20°C</string>
+    <string name="todo">TODO</string>
+</resources>
+
